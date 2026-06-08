@@ -7,7 +7,7 @@ También se puede poner un recordatorio
 
 Como instalarlo (aunque tiene poca cosa):
 
-1.Descargas el ZIP, haz click derecho y le das a extraer aquí
+1.Descargas el ZIP, le das al click derecho y le das a extraer aquí
 
 2.Con la carpeta ya extraída ejecutas el EXE y ya estaría
 
