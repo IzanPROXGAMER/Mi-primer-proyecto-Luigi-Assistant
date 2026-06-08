@@ -11,4 +11,4 @@ Como instalarlo (aunque tiene poca cosa):
 
 NOTA:
 
-No se pares el archivo mp3 del exe, sinó no funcionarán los recordatorios
+No separes el archivo mp3 del exe, sinó no funcionarán los recordatorios
