@@ -1,4 +1,4 @@
-Idiomas disponibles:Español
+Idiomas disponibles: Español
 
 A sido hecho con python 3.10.11 y tkinter (tkinter es el motor gráfico y viene con python, es una librería)
 
