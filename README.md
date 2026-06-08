@@ -1,5 +1,14 @@
-# Mi-primer-proyecto-Luigi-Assistant
-A sido hecho con python 3.10.11
+A sido hecho con python 3.10.11 y tkinter (tkinter viene con python, es una librería)
 
-Este tiene como objetivo dar datos importantes del pc así como la ram y hacer operaciones rápidas.
+Luigi Assistant tiene como objetivo dar datos importantes del pc así como la ram y hacer operaciones rápidas.
 También se puede poner un recordatorio
+
+Como instalarlo(aunque tiene poca cosa):
+
+1.Descargas el ZIP y y lo extraes
+
+2.Con la carpeta ya extraída ejecutas el EXE y ya estaría
+
+NOTA:
+
+No se pares el archivo mp3 del exe, sinó no funcionarán los recordatorios
