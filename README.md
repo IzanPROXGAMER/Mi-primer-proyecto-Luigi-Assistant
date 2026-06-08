@@ -1,3 +1,5 @@
+Idiomas disponibles:Español
+
 A sido hecho con python 3.10.11 y tkinter (tkinter es el motor gráfico y viene con python, es una librería)
 
 Luigi Assistant tiene como objetivo dar datos importantes del pc así como la RAM o CPU y hacer operaciones rápidas.
