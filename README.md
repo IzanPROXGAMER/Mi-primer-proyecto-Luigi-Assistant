@@ -11,6 +11,6 @@ Como instalarlo (aunque tiene poca cosa):
 
 2.Con la carpeta ya extraída ejecutas el EXE y ya estaría
 
-#NOTA:
+NOTA:
 
 No separes el archivo mp3 del exe, sinó no funcionarán los recordatorios
