@@ -1,6 +1,6 @@
 Idiomas disponibles: Español, English
 
-*VERSIÓN MÁS RECIENTE*: **1.0.2**
+*VERSIÓN MÁS RECIENTE*: **1.0.4** (Próximamente la 1.0.5)
 
 A sido hecho con python 3.10.11 y tkinter (tkinter es el motor gráfico y viene con python, es una librería)
 
