@@ -21,4 +21,4 @@ Como instalarlo (aunque tiene poca cosa):
 
 **NOTICIA**:
 
-Pronto se hará compatibilidad con Luigi Prox Community en la versión 1.0.5
+Pronto se hará compatibilidad con Luigi Prox Community en la versión 1.0.5, con lo cual se sacará la versión 1.0.5 cuando Luigi Prox Community esté terminada
