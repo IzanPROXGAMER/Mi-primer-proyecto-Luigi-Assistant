@@ -18,3 +18,7 @@ Como instalarlo (aunque tiene poca cosa):
 **NOTA**:
 
 ***No separes el archivo mp3 del exe, sinó no funcionarán los recordatorios***
+
+**NOTICIA**:
+
+Pronto se hará compatibilidad con Luigi Prox Community en la versión 1.0.5
