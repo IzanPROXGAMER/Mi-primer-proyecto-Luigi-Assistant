@@ -22,7 +22,7 @@ Como instalarlo (aunque tiene poca cosa):
 **NOTICIA**:
 
 La versión 1.0.5 ahora será una versión pro de la 1.0.4, con lo que se la podría llamar 1.0.4 PRO.
-Para más información y e porue esto:
+Para más información y el porque esto:
 
 https://github.com/IzanPROXGAMER/Mi-primer-proyecto-Luigi-Assistant/blob/main/noticias/noticia%201.txt
 
