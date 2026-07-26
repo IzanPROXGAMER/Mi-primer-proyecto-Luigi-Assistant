@@ -1,0 +1,3 @@
+La versión 1.0.5 no se sacará con compatibilidad con luigi prox community porque es demasiado trabajo y se tendría que mejorar más de lo previsto Luigi Prox Community.
+Lo bueno es que la versión pro se hará con custom tkinter y no con tkinter, de ahí que sea pro y además arregará ciertos errores y
+es posible que no se necesite un mp3 por separado para los recordatorios porque vendrá incluido con el .exe
