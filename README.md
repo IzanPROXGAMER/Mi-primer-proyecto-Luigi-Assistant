@@ -21,7 +21,10 @@ Como instalarlo (aunque tiene poca cosa):
 
 **NOTICIA**:
 
-Pronto se hará compatibilidad con Luigi Prox Community en la versión 1.0.5, con lo cual se sacará la versión 1.0.5 cuando Luigi Prox Community esté terminada
+La versión 1.0.5 ahora será una versión pro de la 1.0.4, con lo que se la podría llamar 1.0.4 PRO.
+Para más información y e porue esto:
+
+https://github.com/IzanPROXGAMER/Mi-primer-proyecto-Luigi-Assistant/blob/main/noticias/noticia%201.txt
 
 **NOTICIAS ACTUALES**:
 
