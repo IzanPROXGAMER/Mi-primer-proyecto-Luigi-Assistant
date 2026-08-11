@@ -29,3 +29,11 @@ https://github.com/IzanPROXGAMER/Mi-primer-proyecto-Luigi-Assistant/blob/main/no
 **NOTICIAS ACTUALES**:
 
 * Por fin la versión 1.0.5 está en fase de desarrollo
+
+**IMPORTANTE**:
+
+Se a a pausar el soporte de Luigi Assistant, eso no signififca que ya no tenga soporte para siempre sinó que
+su desarollo estará pausado,
+
+Para más información:
+https://github.com/IzanPROXGAMER/Mi-primer-proyecto-Luigi-Assistant/blob/main/noticias/noticia%202.txt
