@@ -2,17 +2,15 @@ Noticia 2 — Desarrollo pausado
 
 Hola a todos.
 
-El desarrollo de **Luigi Assistant queda pausado por tiempo indefinido**.
+El desarrollo de Luigi Assistant queda pausado por tiempo indefinido.
 
-Esto **no significa que el proyecto haya sido abandonado ni que esté cancelado**. Luigi Assistant seguirá disponible en su estado actual, pero por el momento no se desarrollarán nuevas versiones ni nuevas funciones.
+Esto no significa que el proyecto haya sido abandonado ni que esté cancelado. Luigi Assistant seguirá disponible en su estado actual, pero por el momento no se desarrollarán nuevas versiones ni nuevas funciones.
 
 La razón principal es que quiero dedicar tiempo a aprender nuevas tecnologías y continuar con otros proyectos. En el futuro, si adquiero los conocimientos necesarios y vuelvo a tener ganas de trabajar en Luigi Assistant, el desarrollo podría retomarse.
 
-Por ahora, Luigi Assistant entra en una etapa de **mantenimiento cero y desarrollo pausado**.
+Por ahora, Luigi Assistant entra en una etapa de mantenimiento cero y desarrollo pausado.
 
 Para más información sobre el estado actual del proyecto, consulta el README:
-
-[Más información](https://enlace.com)
 
 Gracias a todos los que habéis seguido el proyecto. 💚
 
